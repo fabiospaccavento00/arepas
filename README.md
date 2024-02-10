@@ -17,7 +17,7 @@ To use the script, follow the steps below:
 1. Clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/fabiospaccavento00/arepas.git
 ```
 
 2. Install the required packages:
