@@ -7,7 +7,7 @@ conditions. The final dataset is saved to `output_dataset/training_dataset.csv`.
 
 # Requirements
 
-- Python 3.6+
+- Python 3.11+
 - Pandas library
 
 ## Usage
